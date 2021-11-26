@@ -8,10 +8,9 @@ function App() {
     <div className="App">
       <menu>
         <li> <img src="rockifylogo.ico" width="50px" /> </li>
-        <li> Tracks </li>
-        <li> Artists </li>
-        <li> Albums </li>
-        <li> Advanced Search </li>
+        <li> Search </li>
+        <li> Recommend </li>
+        <li> My Likes </li>
       </menu>
 
     </div>
